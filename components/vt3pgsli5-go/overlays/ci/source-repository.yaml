@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: vt3pgsli5-go-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/vt3pgsli5-go
